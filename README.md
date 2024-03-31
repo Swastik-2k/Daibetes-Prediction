@@ -1,4 +1,3 @@
-# Daibetes-Prediction
 # Diabetes Prediction ML Project
 
 This project aims to predict whether a person is diabetic or not based on certain health indicators using machine learning techniques.
